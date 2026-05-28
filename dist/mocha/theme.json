@@ -874,7 +874,9 @@
     "z": "zip",
     "zip": "zip",
     "zpaq": "zip",
-    "zst": "zip"
+    "zst": "zip",
+    "blend": "blender",
+    "af": "affinity"
   },
   "fileNames": {
     ".adonisrc.json": "adonis",
@@ -4761,6 +4763,12 @@
     },
     "zip": {
       "iconPath": "./icons/zip.svg"
+    },
+    "blender": {
+      "iconPath": "./icons/blender.svg"
+    },
+    "affinity": {
+      "iconPath": "./icons/affinity.svg"
     },
     "_file": {
       "iconPath": "./icons/_file.svg"
